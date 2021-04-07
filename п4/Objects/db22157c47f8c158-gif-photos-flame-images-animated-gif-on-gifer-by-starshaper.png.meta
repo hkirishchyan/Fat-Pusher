@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 913411c583118bf429d908b6ed7d772a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -815931940626557771
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_0
+  - first:
+      213: 9116410702907992819
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_1
+  - first:
+      213: 8376579240833018953
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_2
+  - first:
+      213: 6727042666244878998
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_3
+  - first:
+      213: 6919549314856167569
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_4
+  - first:
+      213: -7359097870195177317
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_5
+  - first:
+      213: -1342780730602846661
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_6
+  - first:
+      213: 2281168101854826561
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_7
+  - first:
+      213: -8919806389290495677
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_8
+  - first:
+      213: 5901383103540631712
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_9
+  - first:
+      213: 4393127131145808677
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_10
+  - first:
+      213: -8774442238293154100
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_11
+  - first:
+      213: -8572057045030444114
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_12
+  - first:
+      213: -2591085440009972279
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_13
+  - first:
+      213: -6679596206011275660
+    second: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 972
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41f06193a3da4f0800000000000000
+      internalID: -815931940626557771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 924
+        width: 256
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6665cb3ff38e70800000000000000
+      internalID: 9116410702907992819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 908
+        width: 284
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c63c240769f3470800000000000000
+      internalID: 8376579240833018953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 296
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6923c6ed9a14b5d50800000000000000
+      internalID: 6727042666244878998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 720
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198acc5c07d270060800000000000000
+      internalID: 6919549314856167569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 596
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ceab2a7b3fd990800000000000000
+      internalID: -7359097870195177317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 604
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b368d253a0c7d5de0800000000000000
+      internalID: -1342780730602846661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 604
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14052007d4658af10800000000000000
+      internalID: 2281168101854826561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 308
+        width: 284
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341941d195b763480800000000000000
+      internalID: -8919806389290495677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 324
+        width: 256
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a818027aace5e150800000000000000
+      internalID: 5901383103540631712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_10
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 368
+        width: 152
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba31999d587fc30800000000000000
+      internalID: 4393127131145808677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66a54f54bea3680800000000000000
+      internalID: -8774442238293154100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 100
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36394c88fe90980800000000000000
+      internalID: -8572057045030444114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 132
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5d48d358d9a0cd0800000000000000
+      internalID: -2591085440009972279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: db22157c47f8c158-gif-photos-flame-images-animated-gif-on-gifer-by-starshaper_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 112
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a6a104ae4d43a0800000000000000
+      internalID: -6679596206011275660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
